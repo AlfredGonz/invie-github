@@ -1,2 +1,3 @@
 # invie-github
-Tus mejores guitarras Invie-sibles (Ejemplo de platzi)
+Tus mejores guitarras Invie-sibles by @Platzi
+(Ejemplo de platzi)
